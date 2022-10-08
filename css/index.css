@@ -1,0 +1,288 @@
+.Rectangle79 {
+    position: absolute;
+    width: 1516PX;
+    height: 80px;
+    margin-left: -7px;
+    top: 0px;
+    background: #714694;
+}
+
+.bcks {
+    background-color: #DAC7E1;
+    Width: 1516px;
+    Height: 777px;
+    margin-left: -7px;
+}
+
+.freeBtn,.freeBtn1 {
+  
+    color: #47207C;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 15px;
+    width: 140px;
+    height: 34.71px;
+    margin-left: 1283px;
+    margin-top: 22px;
+    border-style: none;
+    border-radius: 20px;
+}
+.freeBtn1{
+    background-color: #A8EDDC;
+}
+.freeBtn{
+    background-color: #c2f7ea;
+}
+
+.mobile {
+    position: absolute;
+    width: 815px;
+    margin-top: 40px;
+    margin-left: -22px;
+}
+
+.contentP {
+    margin-top: -520px;
+    margin-left: 150px;
+    font-size: 60px;
+    font-weight: bolder;
+    color: white;
+}
+
+.contentBtn1,
+.contentBtn2 {
+    width: 230px;
+    height: 50px;
+    border-radius: 20px;
+    border-style: none;
+    font-size: 14px;
+}
+
+.contentBtn1 {
+    background-color: #c2f7ea;
+    font-weight: bold;
+
+
+}
+
+.contentBtn2 {
+    background-color: whitesmoke;
+    font-family: monospace;
+}
+
+.playBtn {
+    margin-right: 10px;
+    margin-top: 4px;
+    width: 12px;
+}
+
+.flexDiv {
+    display: flex;
+    margin-top: -390px;
+    position: absolute;
+}
+
+.backCurv1 {
+    Width: 1516px;
+    position: relative;
+    height: 400px;
+    margin-left: -7px;
+}
+
+.rating {
+    margin-left: 434px;
+    width: 168px;
+}
+
+.review {
+    margin-left: 155.55px;
+    width: 168px;
+}
+
+.download {
+    margin-left: 155.55px;
+}
+
+.freebtnGroup {
+    margin-left: -1074px;
+}
+
+.textInfo {
+    text-align: center;
+    margin-left: -30px;
+    font-size: 50px;
+    color: #78559D;
+    font-weight: bolder;
+}
+
+.textInfoContent3 {
+    margin-left: -10px;
+}
+
+.textInfoContent2 {
+    margin-left: -26px;
+}
+
+.textInfoContent1 {
+    margin-left: -30px;
+}
+
+.textInfoContent1,
+.textInfoContent2,
+.textInfoContent3 {
+    color: #78559D;
+}
+
+.flexDivImg1 {
+    margin-left: -22px;
+}
+
+.flexDivImg2 {
+    margin-left: -15px;
+}
+
+.flexDivImg3 {
+    margin-left: -10px;
+}
+
+.flexDiv2 {
+    display: flex;
+    margin-top: -148px;
+
+}
+
+.listeningWoman {
+    margin-left: 34px;
+    position: absolute;
+}
+
+.contentofDiv {
+    margin: 200px 0px 20px 900px;
+    text-align: center;
+}
+
+.subContentOfDiv {
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+
+.subContentOfDiv2 {
+    width: 320px;
+    font-family: sans-serif;
+}
+
+.groupBtn2,
+.groupBtn3 {
+    border-style: none;
+    border-radius: 20px;
+    height: 41px;
+    font-weight: bold;
+    color: white;
+}
+
+.groupBtn2 {
+    width: 230px;
+}
+
+.blackBackGround {
+    Width: 1515px;
+    height: 900px;
+    margin-left: -5px;
+}
+
+.flexDiv3 {
+    display: flex;
+    justify-content: center;
+}
+
+.flexDivPlayBtn {
+    position: absolute;
+    margin-left: -80px;
+    width: 30px;
+    margin-top: 20px;
+}
+
+.imgOfSongAlbum {
+    margin-right: 26.1px;
+}
+
+.groupBtn3 {
+    margin-top: 10px;
+    width: 200px;
+    font-family: monospace;
+}
+
+.blackBackAbsoluteDiv {
+    text-align: center;
+    position: absolute;
+    margin-top: -880px;
+    margin-left: 300px;
+}
+
+.cntOfsong,
+.cntOfsong1 {
+    color: white;
+    font-family: sans-serif;
+}
+
+.cntOfsong {
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.cntOfsong1{
+    width: 634px;
+    font-size: 20px;
+    margin-left: 155px;
+}
+
+.cardDiv{
+    background-color: #BFA3CB;
+    margin: -7px 0px 0px -5px;
+    width: 1515px;
+}
+.flexDiv4 {
+    display: flex;
+   justify-content: center;
+    }
+
+.flexCard1 {
+    background-color: white;
+    margin: 80px 0px 30px 60px;
+    border-radius: 16px;
+    padding: 15px;
+    
+}
+
+.cardImg {
+    position: absolute;
+    margin: -60px 0px 0px 83px;
+}
+
+.cardRating {
+    margin: 65px 0px 0px 94px;
+    color: gray;
+}
+
+.cardText1 {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+.cardtext3{
+    text-align: center;
+    font-family: monospace;
+    color: gray;
+}
+.cardtext2{
+    width: 280px;
+    text-align: center;
+}
+.flexDivPara{
+    margin: 0px 0px 0px 511px;
+    padding: 50px 0px 0px 5px;
+    font-size: 50px;
+    color: white;
+    font-family: sans-serif;
+}
